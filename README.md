@@ -1,7 +1,9 @@
 # LASD Data Structures
 
+**University of Naples Federico II**
+*Algorithm and Data Structures Laboratory Project*
+
 A C++ template library implementing dynamic data structures with manual memory management.
-Developed for the Laboratorio di Algoritmi e Strutture Dati course.
 
 ##  Implemented Structures
 
